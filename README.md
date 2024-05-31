@@ -1,6 +1,6 @@
 # YOLOv8 ile Hava Nesneleri Tespiti
 
-Uzun dönem stajyerlik yaptığım Canovate Ballistic şirketinde yer aldığım Hava Nesneleri Tespiti projesinde YOLOv8 modelini kendi oluşturduğumuz kuş, uçak, paraşüt ve duman içeren veri seti ile eğiterek yüksek doğrulukta ve az hata ile yangın tespitini gerçekleştiren bir model geliştirmeyi amaçladık.
+Uzun dönem stajyerlik yaptığım Canovate Ballistic şirketinde yer aldığım Hava Nesneleri Tespiti projesinde YOLOv8 modelini kendi oluşturduğumuz kuş, uçak, paraşüt ve drone içeren veri seti ile eğiterek yüksek doğrulukta ve az hata ile uçan nesnelerin tespitini gerçekleştiren bir model geliştirmeyi amaçladık.
 
 ## Veri Setinden Etiketli Görüntüler
 
